@@ -2,7 +2,7 @@
 
 ![Build](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg) ![Deploy](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://react-whatsapp-cloned.netlify.app/) [![GitHub issues](https://img.shields.io/github/issues/Prince-Shivaram/chat-app.svg)](https://github.com/Prince-Shivaram/WhatsApp-Clone/issues) 
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://react-whatsapp-cloned.netlify.app/) [![GitHub issues](https://img.shields.io/github/issues/Prince-Shivaram/WhatsApp-Clone.svg)](https://github.com/Prince-Shivaram/WhatsApp-Clone/issues) 
 
 Whatsapp Clone made using React.js and Firebase.
 
